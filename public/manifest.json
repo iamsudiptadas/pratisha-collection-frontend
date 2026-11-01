@@ -1,0 +1,9 @@
+{
+  "short_name": "Pratisha",
+  "name": "Pratisha Collection",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ec4899",
+  "background_color": "#ffffff"
+}
